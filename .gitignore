@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Big files
+checkpoint/
+data/
+
 # Distribution / packaging
 .Python
 build/
